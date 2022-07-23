@@ -11,6 +11,7 @@
 
 body{
     background: #f2fbfc;
+    max-height:100vh;
 }
 
 .container{
